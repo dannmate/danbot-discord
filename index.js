@@ -52,7 +52,7 @@ client.on('voiceStateUpdate', async (oldMember, newMember) => {
                 if (member.user.username == 'Kenzo') { kenzo = true;}
                 if (member.user.username == 'Darbsquire') { darbo = true;}
                 if (member.user.username == 'KingofFairies') { jack = true;}
-                if (member.user.username == 'Nipples') { nips = true;}
+                if (member.user.username == 'nipps.01') { nips = true;}
                 if (member.user.username == 'Sheena') { sheena = true;}
             }
         }
